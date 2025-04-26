@@ -120,6 +120,6 @@ In this section, we train and test all our approaches/agents with the training a
 
 We analyse the performance of all trading agents - traditional and RL based in this section. We first evaluate against the training data both in the sample and out of the sample.
 
-## *Section 8: Comparing the buy-and-hold strategy with best performing RL and Traditional algorithms*
+## *Section 8: Comparing the buy-and-hold strategy with best performing algorithms*
 
-In this section, we perform a deep dive analysis of the best performing RL algorithm and traditional algorithms and understand the causes of this outperformance.
+In this section, we perform a deep dive analysis of the best performing algorithm and understand the causes of this outperformance.
